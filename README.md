@@ -25,3 +25,6 @@ https://youtu.be/UOMiL3ZZinA
 FINAL PROJECT:
 700734192
 DIVYA JALANEELA PRASAD
+https://github.com/DivyaJPofficial/MachineLearning/blob/main/Asig2_DivyaJalaneelaPrasad_ML.ipynb
+https://github.com/DivyaJPofficial/MachineLearning/blob/main/covid-19-detection%20(1).ipynb
+https://github.com/DivyaJPofficial/MachineLearning/blob/main/covid19final.pptx
